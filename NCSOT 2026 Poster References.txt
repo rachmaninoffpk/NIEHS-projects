@@ -1,13 +1,9 @@
 1.	Eccles, K.M., et al., A geospatial modeling approach to quantifying the risk of exposure to environmental chemical mixtures via a common molecular target. Science of the Total Environment, 2023. 855.
 2.	Messier, K.P., D.M. Reif, and S.W. Marvel, The GeoTox Package: open-source software for connecting spatiotemporal exposure to individual and population-level risk. Hum Genomics, 2025. 19(1): p. 5.
-3.	Pearce, R.G., et al., httk: R Package for High-Throughput Toxicokinetics. J Stat Softw, 2017. 79(4): p. 1-26.
-4.	Ventura, A.C., et al., Utilization of extracellular information before ligand-receptor binding reaches equilibrium expands and shifts the input dynamic range. Proc Natl Acad Sci U S A, 2014. 111(37): p. E3860-9.
-5.	Di-Bella, J.P., A. Colman-Lerner, and A.C. Ventura, Properties of cell signaling pathways and gene expression systems operating far from steady-state. Sci Rep, 2018. 8(1): p. 17035.
-6.	AP, I.J. and D. Guo, Drug-Target Association Kinetics in Drug Discovery. Trends Biochem Sci, 2019. 44(10): p. 861-871.
-7.	Wickham, H., ggplot2: Elegant Graphics for Data Analysis. 2016: Springer-Verlag New York.
-8.	Wilke, C.O., cowplot: Streamlined Plot Theme and Plot Annotations for 'ggplot2'. 2025.
-9.	Campitelli, E., ggnewscale: Multiple Fill and Colour Scales in 'ggplot2'. 2025.
-10.	Kruse, P.M., et al., ctxR: Utilities for interacting with the CTX APIs. NAM Journal, 2025. 1.
-11.	Zhu, H., kableExtra: Construct Complex Table with 'kable' and Pipe Syntax. 2024.
-12.	Barrett, T.D., M; Srinivasan, A; Gorecki, J; Chirico, M; Hocking, T; Schwendinger, B; Krylov, I, data.table: Extension of `data.frame`. 2025.
-
+3.	Ventura, A.C., et al., Utilization of extracellular information before ligand-receptor binding reaches equilibrium expands and shifts the input dynamic range. Proc Natl Acad Sci U S A, 2014. 111(37): p. E3860-9.
+4.	Di-Bella, J.P., A. Colman-Lerner, and A.C. Ventura, Properties of cell signaling pathways and gene expression systems operating far from steady-state. Sci Rep, 2018. 8(1): p. 17035.
+5.	AP, I.J. and D. Guo, Drug-Target Association Kinetics in Drug Discovery. Trends Biochem Sci, 2019. 44(10): p. 861-871.
+6.	Wickham, H., ggplot2: Elegant Graphics for Data Analysis. 2016: Springer-Verlag New York.
+7.	Coombes, K.R., et al., Polychrome: Creating and Assessing Qualitative Palettes with Many Colors. Journal of Statistical Software, 2019. 90(Code Snippet 1).
+8.	Shuangbin Xu, Chen M, Feng T, Zhan L, Zhou L, Yu G (2021). Use ggbreak to effectively utilize plotting space to deal with large datasets and outliers. Frontiers in Genetics, 12, 774846. 
+9.	Wilke, C.O., cowplot: Streamlined Plot Theme and Plot Annotations for 'ggplot2'. 2025.
